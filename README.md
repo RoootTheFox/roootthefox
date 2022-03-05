@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [RaspiBot](https://github.com/RoootTheFox/RaspiBot) (well kinda)
 - 📫 How to reach me: (Discord) Rooot#9414
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i am very dumb and i am a furry
+- ⚡ Fun fact: no
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
