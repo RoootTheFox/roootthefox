@@ -1,6 +1,6 @@
 ### Hi, I am @RoootTheFox (aka Rooot)
 
-- 🔭 I’m currently working on [RaspiBot](https://github.com/RoootTheFox/RaspiBot) (well kinda)
+- 🔭 I’m currently working on random stuff
 - 📫 How to reach me: (Discord) Rooot#9414
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: no
