@@ -11,5 +11,3 @@
 - 💬 Ask me about ...
 hi
 --!>
-
-<sub><sub><sub>My old GitHub Account is <a href="https://github.com/RootRobo">@RootRobo</a></sub></sub></sub>
