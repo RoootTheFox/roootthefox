@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on random stuff
 - 📫 How to reach me: (Discord) Rooot#9414
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: no
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
