@@ -1,8 +1,8 @@
-### 🌸 Hi, I am @RoootTheFox (aka Rooot)
+## 🌸 hi, i 'm rooot :3
+i'm a mediocre programmer, catgirl, and professional meowing creature
 
-*haha i suck*
-
-some stats idk
+<br>
+here's some boring stats about me:
 <div style="width: 70%;">
 <img src="https://github-readme-stats.vercel.app/api?username=RoootTheFox&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&hide_border=true"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoootTheFox&cache_seconds=7777&layout=compact&bg_color=00000000&hide_border=true&card_width=240"/>
